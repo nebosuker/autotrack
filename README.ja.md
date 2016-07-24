@@ -1,3 +1,5 @@
+<!-- source: https://github.com/googleanalytics/autotrack/blob/cc35f6e1a685f2fc01bb429a516276ccaba52f5c/README.md -->
+
 # Autotrack [![Build Status](https://travis-ci.org/googleanalytics/autotrack.svg?branch=master)](https://travis-ci.org/googleanalytics/autotrack)
 
 - [概要](#概要)
